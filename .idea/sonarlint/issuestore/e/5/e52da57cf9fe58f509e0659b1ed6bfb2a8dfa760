@@ -1,0 +1,26 @@
+
+k
+java:S11926"IDefine a constant instead of duplicating this literal "Persona" 11 times.(íš¬Òøÿÿÿÿ8Òæ±¾è1
+j
+java:S1192j"HDefine a constant instead of duplicating this literal "existDB" 3 times.(€˜Ğøÿÿÿÿ8§½Î¾è1
+l
+java:S1192~"JDefine a constant instead of duplicating this literal "noExistDB" 4 times.(ŸßğÇúÿÿÿÿ8Òæ±¾è1
+o
+java:S1192ˆ"LDefine a constant instead of duplicating this literal "noDataFound" 4 times.(Í™»Íÿÿÿÿÿ8Òæ±¾è1
+…
+java:S1488›"bImmediately return this expression instead of assigning it to the temporary variable "duplicates".(˜ò‹Éÿÿÿÿÿ8Ôæ±¾è1
+^
+java:S1854:"<Remove this useless assignment to local variable "linkedin".(ƒÁ×øÿÿÿÿ8½ÂÈ¾è1
+O
+java:S1481:"-Remove this unused "linkedin" local variable.(ƒÁ×øÿÿÿÿ8¿ÂÈ¾è1
+_
+java:S1854Ã"<Remove this useless assignment to local variable "linkedin".(ƒÁ×øÿÿÿÿ8»«É¾è1
+P
+java:S1481Ã"-Remove this unused "linkedin" local variable.(ƒÁ×øÿÿÿÿ8¼«É¾è1
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(ëØŠ÷8ûÚÓ¾è1
+^	java:S125ÿ"<This block of commented-out lines of code should be removed.(Æˆ³–ûÿÿÿÿ8²–Ô¾è1
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(ÅÈğ8”ÏÔ¾è1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8·ÓÖ¾è1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8·ÓÖ¾è1

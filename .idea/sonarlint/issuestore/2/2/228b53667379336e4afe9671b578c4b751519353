@@ -1,0 +1,10 @@
+
+X	java:S125""<This block of commented-out lines of code should be removed.(éù«û8Ùëµ¾è1
+p
+java:S1128"SRemove this unused import 'com.proyecto.b.s.exception.ResourceEntityNullException'.(½£“ú8Í·¶¾è1
+a
+java:S1128"DRemove this unused import 'com.proyecto.b.s.security.UserPrincipal'.(äí†œ8Í·¶¾è1
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8Î·¶¾è1
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8Î·¶¾è1
